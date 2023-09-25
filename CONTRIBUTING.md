@@ -30,8 +30,8 @@ The easiest way to contribute is to edit content directly in your browser using 
 
 If you would like to make changes on your local machine, you can [clone a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) and work offline. GitHub provides two applications to simplify working with Git and GitHub repositories: 
 
-- [GitHub Desktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop): graphical user interface
-- [GitHub CLI](https://docs.github.com/en/github-cli/github-cli/about-github-cli): command-Line Interface
+- [GitHub Desktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop) (graphical user interface)
+- [GitHub CLI](https://docs.github.com/en/github-cli/github-cli/about-github-cli) (command-line interface)
 
 It is also possible to [set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git) with other command-line tools.
 
