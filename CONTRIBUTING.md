@@ -37,7 +37,7 @@ It is also possible to [set up Git](https://docs.github.com/en/get-started/quick
 
 ## Branches
 
-We use [branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) to manage changes to the KOTOR Community Portal website. A branch is a separate line of development for making changes without affecting the main project.
+We use [branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) to manage changes to the KOTOR Community Portal website. A branch is a separate line of development for making changes without affecting the main project until they are ready.
 
 - The **main** branch will typically contain the current working version of the website. The main branch is protected, so only certain users are able to edit it. Generally, the main branch will be changed only when a new version of the website is published.
 - The **default** branch will typically contain a work in progress of the next version. Typically, this branch will be named whatever the next version of the website is going to be named.
