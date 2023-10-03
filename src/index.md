@@ -1,0 +1,3 @@
+# Welcome!
+
+Welcome to the KOTOR Community Portal! This website is dedicated to the iconic _Star Wars: Knights of the Old Republic_ video games. Whether you're a Jedi Knight or a Sith Lord, our website is your go-to destination for technical support, ensuring seamless gameplay and hassle-free mod installations. Unleash the full potential of these legendary titles and explore a galaxy of possibilities with the help of our dedicated community. May the Force be with you.
