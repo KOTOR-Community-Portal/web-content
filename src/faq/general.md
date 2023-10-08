@@ -50,7 +50,7 @@ KotOR is quite an old game, though, an therefore may sometimes have trouble runn
 
 * an issue with graphics rendering, which can often be solved by disabling grass, soft shadows, or vertex buffer effects
 
-* an issue with playing the game at a resolution smaller than your monitor's native resolution—see [here](/faq/k1.html#My_game_is_crashing_before/shortly_after_the_main_menu,_or_whenever_I_have_a_cutscene!) for how to solve this for KOTOR, and [here](/faq/k2.html#My_game_is_crashing_before/shortly_after_the_main_menu,_or_whenever_I_have_a_cutscene!) for KOTOR 2
+* an issue with playing the game at a resolution smaller than your monitor's native resolution—see [here](/faq/k1.html#My_game_is_crashing_before_shortly_after_the_main_menu_or_whenever_I_have_a_cutscene) for how to solve this for KOTOR, and [here](/faq/k2.html#My_game_is_crashing_before_shortly_after_the_main_menu_or_whenever_I_have_a_cutscene) for KOTOR 2
 
 * playing on a laptop or other system with an integrated graphics card, which can unfortunately (though not always) result in irreparable problems which no known method can get around; we recommend ensuring the platform you buy your games on has a refund policy if you do choose to try playing on a laptop
 
