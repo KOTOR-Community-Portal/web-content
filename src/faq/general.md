@@ -54,7 +54,7 @@ KotOR is quite an old game, though, an therefore may sometimes have trouble runn
 
 * playing on a laptop or other system with an integrated graphics card, which can unfortunately (though not always) result in irreparable problems which no known method can get around; we recommend ensuring the platform you buy your games on has a refund policy if you do choose to try playing on a laptop
 
-This list is meant to help provide a shorthand of things to try for users who purchase the game and experience immediate or near-immediate problems, *not* to be exhaustive; we can probably help even if your issue isn't on here! If you're having other problems, please check the FAQ sections for your specific game ([KOTOR](/faq/k1.html) or [KOTOR 2](/faq/k2.html)) before posting, but don't be afraid of starting your own thread if you can't find anything else to help you out! Nine times out of ten, we can find at least a partial solution for you.
+This list is meant to help provide a shorthand of things to try for users who purchase the game and experience immediate or near-immediate problems, *not* to be exhaustive; we can probably help even if your issue isn't on here! If you're having other problems, please check the FAQ sections for your specific game ([KOTOR](/faq/k1.html) or [KOTOR 2](/faq/k2.html)) first, but if there's nothing there to address your specific problem please hop into the #tech_support channel of the [KOTOR Discord](https://discord.gg/kotor) and let us know your problem! Nine times out of ten, we can find at least a partial solution for you.
 
 ## Mod Support
 
@@ -76,6 +76,6 @@ If you need any help with modding, you can post a thread asking for help, explai
 
 ___
 
-### The subreddit's mod build has quite a lot of mods. Is there somewhere I can download and install them all at once?
+### This site's mod build has quite a lot of mods. Is there somewhere I can download and install them all at once?
 
-In short, no. As a common courtesy, r/kotor and its affiliated sites strictly require a mod author's permission to have their content included in a mod package. Due to the sheer number of various mod creators whose mods are included in the build, this would be impractical at best, impossible realistically. If you want to use the builds but don't want to take the time to install all of the mods individually, feel free to exclude any you feel are unnecessary.
+In short, no. As a common courtesy and to comply with our partner site Deadlystream's rules, we strictly require a mod author's permission to have their content included in a mod package. Due to the sheer number of various mod creators whose mods are included in the build, this would be impractical at best, impossible realistically. If you want to use the builds but don't want to take the time to install all of the mods individually, this is why the Category and Tier system are present: to help you find & install the mods you feel are most important to enhancing your experience.
