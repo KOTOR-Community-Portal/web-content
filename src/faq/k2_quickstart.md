@@ -18,7 +18,7 @@ See [here](/buy_the_games/) for a list of retailers that sell KOTOR 2, as well a
 
 If you're on the Xbox, there's not much you can ever do. You have three options: load an earlier save, uninstall and reinstall the game, and uninstall and reinstall the game on a different drive. If none of those work and the issue you're having is clearly a bug, there's not anything anyone can do to help you.
 
-If you're on PC, you should avail yourself of our [expanded wiki's bugs section](/faq/k2.html#Bug_Support) for some common issues and fixes. If you don't see your problem on there, or the fix for it doesn't work, make a new thread on the sub and we'll try giving you a hand.
+If you're on PC, you should avail yourself of our [expanded wiki's bugs section](/faq/k2.html#Bug_Support) for some common issues and fixes. If you don't see your problem on there, or the fix for it doesn't work, join the [KOTOR Discord](https://discord.gg/kotor) and make a post with your issue in the #tech_support channel and we'll try giving you a hand.
 
 ## First-Time Advice
 
@@ -48,12 +48,14 @@ Influence--both high and low--unlocks additional companion dialogue, and in cert
 
 ### Should I Use Mods?
 
-**YES** - TSLRCM.
+The most well-known, important and broadly-appreciated mod for TSL is TSLRCM (The Sith Lords Restored Content Mod).
 
-TSLRCM is essential even on your first playthrough. It's a comprehensive, developer-approved piece of software which not only brings back a lot of cut content, thus making the plot easier to understand and the game more enjoyable, it also fixes plenty of bugs, some of which are extremely serious and even game-breaking. There is positively no reason not to use TSLRCM on every single playthrough, unless you're playing on the Xbox and have no option to. The availability of TSLRCM is the #1 reason why it's so important to play KOTOR 2 on a system that has access to the mod if possible, including on PC, Mac, mobile, and, when the free DLC for it is released, on Switch.
+TSLRCM is essential even on your first playthrough. It not only brings back a plethora of cut content, making the plot easier to understand and the game more enjoyable, but also fixes a massive quantity of bugs, some of which are extremely serious and even game-breaking. There is positively no reason not to use TSLRCM on every single playthrough, unless you're playing on the Xbox and have no option to. There is even a mobile-compatible version, MTSLRCM, for those playing the game on their phones.
+
+The [KOTOR 2 Community Patch](https://deadlystream.com/files/file/1280-kotor-2-community-patch/) is also an important, though less critical, collection of supplemental bugfixes that address several issues which slipped through the cracks during TSLRCM's development, and is safe to use alongside TSLRCM (indeed, it requires it!).
 
 ### Okay, What if I Want More Mods?
 
 Generally speaking, mods on your first playthrough can ruin the intended progression or aesthetic of the basegame. Worse still, it can do this before you can even learn what the intended design is like, which can result in redesigning a game you may have liked in its basic form--a fraught prospect at best. It's also all-too-easy to spoil yourself on major plot points while searching for mods. Therefore, unless you're specifically only using mods which restore content or fix bugs (such as TSLRCM as recommended above), we usually recommend not using any mods on your first playthrough.
 
-There is an exception to this in the form of the **[KOTOR Mod Builds](/modding/mod_builds/)**, however. The KOTOR 2 Spoiler-Free Mod Build, which is specifically geared towards new players, includes tasteful improvements and bugfixes across the game without modifying its original atmosphere, progression, or story. It's designed to enhance the base game rather than modify it, and its use will, in our opinion, not detract from the experience of KOTOR 2 in the slightest--indeed, we think it significantly improves the experience.
+There is an exception to this in the form of the **[KOTOR Mod Builds](/modding/mod_builds/)**, however. We're a little biased given that this site hosts them, but we also truly believe that the Spoiler-Free mod build, which is a subset of the base mod build specifically geared towards new players, includes tasteful improvements across the game without modifying its original atmosphere, progression, or story. It's designed to enhance the base game rather than modify it, and its use will, in our opinion, not detract from the experience of KOTOR 2 in the slightest. Most importantly, as the name suggests, installs of that build are censored to prevent you from being spoiled during the download or install process for the mods, allowing you to install the content safely without risking your experience being compromised.
