@@ -12,13 +12,11 @@ The KOTOR games often go on a major sale during most Steam sale events, and espe
 
 #### [![GOG.com logo](/GOG.com_logo.svg) Windows via GOG.com](https://www.gog.com/game/star_wars_knights_of_the_old_republic)
 
+#### [![Amazon logo](/Amazon_icon.svg) Windows via Amazon](https://gaming.amazon.com/star-wars-knights-of-the-old-republic-aga/dp/amzn1.pg.item.37653d14-bc85-4256-90a6-0515943686ba)
+
 __
 
 #### [![Apple logo](/Apple_logo_white.svg) Mac via the AppStore](https://itunes.apple.com/us/app/star-wars-knights-old-republic/id416608891?mt=12)
-
-___
-
-#### [Amazon](https://gaming.amazon.com/star-wars-knights-of-the-old-republic-aga/)
 
 ___
 
