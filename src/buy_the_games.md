@@ -18,7 +18,7 @@ __
 
 ___
 
-#### [Amazon](https://gaming.amazon.com/star-wars-knights-of-the-old-republic-aga/dp/amzn1.pg.item.37653d14-bc85-4256-90a6-0515943686ba?ingress=amzn&ref_=SM_StarWarsKnightsoftheOldRepublic_S01_FGWP_CRWN)
+#### [Amazon](https://gaming.amazon.com/star-wars-knights-of-the-old-republic-aga/)
 
 ___
 
