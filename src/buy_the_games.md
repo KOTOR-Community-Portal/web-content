@@ -18,6 +18,10 @@ __
 
 ___
 
+#### [Amazon](https://gaming.amazon.com/star-wars-knights-of-the-old-republic-aga/dp/amzn1.pg.item.37653d14-bc85-4256-90a6-0515943686ba?ingress=amzn&ref_=SM_StarWarsKnightsoftheOldRepublic_S01_FGWP_CRWN)
+
+___
+
 ### Mobile
 
 #### [![Apple logo](/Apple_logo_white.svg) iOS via the AppStore](https://apps.apple.com/us/app/star-wars-kotor/id611436052)
